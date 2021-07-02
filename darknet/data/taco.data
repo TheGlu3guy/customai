@@ -1,0 +1,5 @@
+classes = 1
+train = data/train_taco.txt
+valid = data/test_taco.txt
+names = data/train_taco.names
+backup = backup_taco/
